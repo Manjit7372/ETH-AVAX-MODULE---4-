@@ -1,4 +1,4 @@
-# ETH-AVAX-MODULE---4-
+# ETH-AVAX-MODULE-4
 ## DegenToken Contract
 
 The DegenToken contract is an ERC20 token smart contract that enables various functionalities for players in the Degen Gaming platform. The contract is designed to provide the following features:
